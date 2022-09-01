@@ -114,6 +114,8 @@
                             <li><a href="https://www.fourfaith.com/intelligent-temperature-screening-machine.html">Intelligent Temperature Screening Machine F-TD200</a></li>
                         </ul>
                         </ul>
+                             &nbsp;<div class="carousel-item ">   <img src="https://www.fourfaith.com/uploadfile/2022/0516/20220516032450983.jpg" onclick="window.location.href='https://www.fourfaith.com/contactus/'">
+                       </div>
                             <h2><a  href="https://www.fourfaith.com/solution/">Solutions</a></h2>
                         <ul>
                             <li><a href="https://www.fourfaith.com/solution/atmfinance/" data-value="">ATM and Finance</a></li>
