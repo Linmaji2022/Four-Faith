@@ -67,6 +67,11 @@
                             <li><a href="https://www.fourfaith.com/lora-temperature-and-humidity-sensor-f100-l.html">LoRa Temperature and Humidity Sensor Terminal F100-L</a></li>
                        </ul>
                             <li><a href="https://www.fourfaith.com/NB-IoT/" data-value="">NB-IoT</a></li>
+                       <ul>
+                            <li><a href="https://www.fourfaith.com/f2910.html">NB-IoT Terminal(DTU) F2910</a></li>
+                            <li><a href="https://www.fourfaith.com/intelligent-socket.html">Intelligent Temperature Measuring Socket F-TS100</a></li>
+                            <li><a href="https://www.fourfaith.com/cheapest-nb-iot-module.html">NB-IoT Module F-B200GL</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/zigbee/" data-value="">ZigBee</a></li>
                             <li><a href="https://www.fourfaith.com/3grtu/" data-value="">3G/4G RTU</a></li>
                             <li><a href="https://www.fourfaith.com/Network-Video-Recoder/" data-value="">Network Video Recorder</a></li>
