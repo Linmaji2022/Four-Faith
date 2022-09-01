@@ -116,6 +116,8 @@
                         </ul>
                              &nbsp;<div class="carousel-item ">   <img src="https://www.fourfaith.com/uploadfile/2022/0516/20220516032450983.jpg" onclick="window.location.href='https://www.fourfaith.com/contactus/'">
                        </div>
+                       <h2 class="section-title2">CONTACT US</h2>
+<p class="section-subtitle3">We're constantly pushing ourselves to innovate and bring you better, safer products.</p>
                             <h2><a  href="https://www.fourfaith.com/solution/">Solutions</a></h2>
                         <ul>
                             <li><a href="https://www.fourfaith.com/solution/atmfinance/" data-value="">ATM and Finance</a></li>
