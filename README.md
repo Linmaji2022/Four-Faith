@@ -78,6 +78,10 @@
                        </ul>
                             <li><a href="https://www.fourfaith.com/3grtu/" data-value="">3G/4G RTU</a></li>
                             <li><a href="https://www.fourfaith.com/Network-Video-Recoder/" data-value="">Network Video Recorder</a></li>
+                       <ul>
+                            <li><a href="https://www.fourfaith.com/f-nvr200-poe-network-video-recorder.html">PoE Network Video Recorder F-NVR200</a></li>
+                            <li><a href="https://www.fourfaith.com/poe-nvr-recorder.html">5G/4G POE Network Video Recorder F-NVR110</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/Intelligent-Gateway/" data-value="">Intelligent Gateway</a></li>
                             <li><a href="https://www.fourfaith.com/Industrial-PoE-Switch/" data-value="">Industrial PoE Switch</a></li>
                             <li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
