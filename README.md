@@ -90,6 +90,10 @@
                             <li><a href="https://www.fourfaith.com/wireless-m-bus-gateway-f-r100wm.html">Wireless M-Bus Gateway F-R100WM</a></li>
                        </ul>
                             <li><a href="https://www.fourfaith.com/Industrial-PoE-Switch/" data-value="">Industrial PoE Switch</a></li>
+                        <ul>
+                            <li><a href="https://www.fourfaith.com/unmanaged-industrial-poe-ethernet-switch.html">Unmanaged Industrial PoE Ethernet Switch F-SW1010</a></li>
+                            <li><a href="https://www.fourfaith.com/f-sw1032-industrial-switch.html">Industrial Switch F-SW1032</a></li>
+                        </ul>
                             <li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
                             <li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
                             <li><a href="https://www.fourfaith.com/temperature-screening-terminal/" data-value="">Temperature Screening Terminal</a></li>
