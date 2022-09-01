@@ -118,6 +118,7 @@
                        </div>
                        <h2 class="section-title2">CONTACT US</h2>
 <p class="section-subtitle3">We're constantly pushing ourselves to innovate and bring you better, safer products.</p>
+                       <li><a href="https://www.fourfaith.com/contactus/" data-value="">Leave a Message</a></li>
                             <h2><a  href="https://www.fourfaith.com/solution/">Solutions</a></h2>
                         <ul>
                             <li><a href="https://www.fourfaith.com/solution/atmfinance/" data-value="">ATM and Finance</a></li>
