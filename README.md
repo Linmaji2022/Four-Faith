@@ -1,5 +1,6 @@
 # Four-Faith
-Company Website:<li><a href="https://www.fourfaith.com/" data-value="">Four-Faith Communication Technology Co., Ltd.</a></li>
+Company Website: www.fourfaith.com
+<li><a href="https://www.fourfaith.com/" data-value="">Four-Faith Communication Technology Co., Ltd.</a></li>
 <h3 class="about_video_title">ABOUT US</h3>
             <P class="about_video_text">
                 Founded in 2008, Four-Faith is the world's leading Internet of Things communication equipment and
