@@ -103,7 +103,14 @@
                             <li><a href="https://www.fourfaith.com/f-sc332-pro-bullet-camera.html">Pro Bullet Camera F-SC332</a></li>
                        </ul>
                             <li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
+                       <ul>
+                            <li><a href="https://www.fourfaith.com/5g-indoor-cpe-f-nr300.html">5G CPE Indoor F-NR300</a></li>
+                            <li><a href="https://www.fourfaith.com/5g-cpe-router-f-nr300-v2.html">5G CPE F-NR300 V2</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/temperature-screening-terminal/" data-value="">Temperature Screening Terminal</a></li>
+                        <ul>
+                            <li><a href="https://www.fourfaith.com/intelligent-temperature-screening-machine.html">Intelligent Temperature Screening Machine F-TD200</a></li>
+                        </ul>
                         </ul>
                             <h2><a  href="https://www.fourfaith.com/solution/">Solutions</a></h2>
                         <ul>
