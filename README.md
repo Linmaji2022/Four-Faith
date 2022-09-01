@@ -29,12 +29,17 @@
                        </ul>
                             <li><a href="https://www.fourfaith.com/industrial-5g-router/" data-value="">Industrial 4G|5G Router</a></li>
                         <ul>
-                            <li><a href="https://www.fourfaith.com/f-nr100-5g-industrial-router.html"><span>5G Industrial Router F-NR100</a></li>
-                            <li><a href="https://www.fourfaith.com/5g-industrial-router-f-nr120.html"><span>5G Industrial Router F-NR120</a></li>
-                            <li><a href="https://www.fourfaith.com/f-nr200-5g-industrial-router.html"><span>5G Industrial CPE F-NR200</a></li>
-                            <li><a href="https://www.fourfaith.com/5g-industrial-router-f-nr130.html"><span>5G Industrial Router F-NR130</a></li>
-                            <li><a href="https://www.fourfaith.com/industrial-network-router-f3x27-v2.html"><span>4G Industrial Router F3X27 V2</a></li>
-                            <li><a href="https://www.fourfaith.com/fr100-3g4g-cellular-router-with-sim-slot.html"><span>4G Cellular Router F-R100</a></li>
+                            <li><a href="https://www.fourfaith.com/f-nr100-5g-industrial-router.html">5G Industrial Router F-NR100</a></li>
+                            <li><a href="https://www.fourfaith.com/5g-industrial-router-f-nr120.html">5G Industrial Router F-NR120</a></li>
+                            <li><a href="https://www.fourfaith.com/f-nr200-5g-industrial-router.html">5G Industrial CPE F-NR200</a></li>
+                            <li><a href="https://www.fourfaith.com/5g-industrial-router-f-nr130.html">5G Industrial Router F-NR130</a></li>
+                            <li><a href="https://www.fourfaith.com/industrial-network-router-f3x27-v2.html">4G Industrial Router F3X27 V2</a></li>
+                            <li><a href="https://www.fourfaith.com/fr100-3g4g-cellular-router-with-sim-slot.html">4G Cellular Router F-R100</a></li>
+                            <li><a href="https://www.fourfaith.com/fr200-industrial-cellular-wireless-router.html">Industrial Cellular Wireless Router F-R200</a></li>
+                            <li><a href="https://www.fourfaith.com/f3x36-fdd-lte-industrial-4g-router.html">FDD-LTE Industrial 4G Router F3x36</a></li>
+                            <li><a href="https://www.fourfaith.com/industrial-ethernet-router-f3x26-v2.html">4G Industrial Router F3X26 V2</a></li>
+                            <li><a href="https://www.fourfaith.com/f3x26q-industrial-router.html">Industrial Router F3X26Q</a></li>
+                            <li><a href="https://www.fourfaith.com/f3946-dual-module-wifi-router.html">Dual-Module WIFI Router F3946</a></li>                     
                        </ul>
                             <li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
                             <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa</a></li>
