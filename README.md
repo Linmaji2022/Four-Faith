@@ -16,3 +16,35 @@ Company Website: www.fourfaith.com
                 As an end-to-end solution provider, Four-Faith has long-standing relationships with global enterprises
                 and mobile network operators looking to find a competitive edge in the high-growth IoT market.
             </P>
+<li class="drop-down" ><a  class="active"               href="https://www.fourfaith.com/products/">Products</a>
+            <ul>
+                            <li><a href="https://www.fourfaith.com/cellularipmodem/" data-value="">Cellular IP Modem</a></li>
+                            <li><a href="https://www.fourfaith.com/industrial-5g-router/" data-value="">Industrial 4G|5G Router</a></li>
+                            <li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
+                            <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa</a></li>
+                            <li><a href="https://www.fourfaith.com/NB-IoT/" data-value="">NB-IoT</a></li>
+                            <li><a href="https://www.fourfaith.com/zigbee/" data-value="">ZigBee</a></li>
+                            <li><a href="https://www.fourfaith.com/3grtu/" data-value="">3G/4G RTU</a></li>
+                            <li><a href="https://www.fourfaith.com/Network-Video-Recoder/" data-value="">Network Video Recorder</a></li>
+                            <li><a href="https://www.fourfaith.com/Intelligent-Gateway/" data-value="">Intelligent Gateway</a></li>
+                            <li><a href="https://www.fourfaith.com/Industrial-PoE-Switch/" data-value="">Industrial PoE Switch</a></li>
+                            <li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
+                            <li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
+                            <li><a href="https://www.fourfaith.com/temperature-screening-terminal/" data-value="">Temperature Screening Terminal</a></li>
+                          </ul>
+            <li class="drop-down" ><a               href="https://www.fourfaith.com/solution/">Solutions</a>
+            <ul>
+                            <li><a href="https://www.fourfaith.com/solution/atmfinance/" data-value="">ATM and Finance</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/loraapplications/" data-value="">LoRa Applications</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/transpotation/" data-value="">Transportation</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/smartgrid/" data-value="">Smart Grid</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/oilgas/" data-value="">Oil and Gas</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/environmentalprotection/" data-value="">Environmental</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/wastewater/" data-value="">Water and Wastewater</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/wifiapplication/" data-value="">WIFI Application</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/zigbeeapplication/" data-value="">ZigBee Application</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/smart-manufacturing/" data-value="">Smart Manufacturing</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/5gapplications/" data-value="">5G Applications</a></li>
+                            <li><a href="https://www.fourfaith.com/solution/otherindustries/" data-value="">Other Industries</a></li>
+                          </ul>
+          </li>
