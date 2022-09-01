@@ -21,13 +21,15 @@
                 and mobile network operators looking to find a competitive edge in the high-growth IoT market.
             </P>
                             <h2><a  href="https://www.fourfaith.com/products/">Products</a></h2>
+                            <span class="top-description">Four-Faith has various industrial communication IoT products and M2M devices such as an industrial router, intelligent gateway, LoRa/NB-IoT/Zigbee products, IP Modem, module, industrial computer, intelligent IoT video surveillance system, 5G CPE and, etc. All the products are designed as industrial-grade that can work in harsh environments and meet the various requirements of customers.</span>
+                    </div>
                         <ul>
-                            <li><a href="https://www.fourfaith.com/cellularipmodem/" data-value="">Cellular IP Modem</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/cellularipmodem/" data-value="">Cellular IP Modem</a></li>
                         <ul>
                             <li><a href="https://www.fourfaith.com/ip-modem-f2x16-v4.html"><span>IP Modem F2X16 V4</span></a></li>
                             <li><a href="https://www.fourfaith.com/f7916-series-ip-modem.html"><span>Industrial GPS IP Modem F7916</span></a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/industrial-5g-router/" data-value="">Industrial 4G|5G Router</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/industrial-5g-router/" data-value="">Industrial 4G|5G Router</a></li>
                         <ul>
                             <li><a href="https://www.fourfaith.com/f-nr100-5g-industrial-router.html">5G Industrial Router F-NR100</a></li>
                             <li><a href="https://www.fourfaith.com/5g-industrial-router-f-nr120.html">5G Industrial Router F-NR120</a></li>
@@ -43,7 +45,7 @@
                             <li><a href="https://www.fourfaith.com/f3x26-tb-industrial-4g-lte-router.html">Industrial 4G LTE Router F3X26-TB</a></li>
                             <li><a href="https://www.fourfaith.com/f3x36q-industrial-router.html">Industrial Router F3X36Q</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
                        <ul>
                             <li><a href="https://www.fourfaith.com/f4932-r1q-industrial-computer.html">Android Industrial Computer F4932-R1Q</a></li>
                             <li><a href="https://www.fourfaith.com/f4931-r2h-industrial-computer.html">Industrial Computer F4931-R2H</a></li>
@@ -53,7 +55,7 @@
                             <li><a href="https://www.fourfaith.com/all-in-one-touch-screen-computer.html">All-in-one Touch Screen Industrial Computer F4934-A-10.1CM</a></li>
                        <li><a href="https://www.fourfaith.com/all-in-one-computers-touch-screen.html">All-in-one Computers Touch Screen F4934-A-17.3IE</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa/LoRaWAN</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa/LoRaWAN</a></li>
                        <ul>
                             <li><a href="https://www.fourfaith.com/lorawan-module-f8l10a.html">LoRaWAN Module F8L10A</a></li>
                             <li><a href="https://www.fourfaith.com/lorawan-module-f-lm100.html">LoRaWAN Module F8L10C</a></li>
@@ -66,35 +68,35 @@
                             <li><a href="https://www.fourfaith.com/lora-sensor-terminal-f8l10st.html">LoRa Sensor Terminal F8L10ST</a></li>
                             <li><a href="https://www.fourfaith.com/lora-temperature-and-humidity-sensor-f100-l.html">LoRa Temperature and Humidity Sensor Terminal F100-L</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/NB-IoT/" data-value="">NB-IoT</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/NB-IoT/" data-value="">NB-IoT</a></li>
                        <ul>
                             <li><a href="https://www.fourfaith.com/f2910.html">NB-IoT Terminal(DTU) F2910</a></li>
                             <li><a href="https://www.fourfaith.com/intelligent-socket.html">Intelligent Temperature Measuring Socket F-TS100</a></li>
                             <li><a href="https://www.fourfaith.com/cheapest-nb-iot-module.html">NB-IoT Module F-B200GL</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/zigbee/" data-value="">ZigBee</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/zigbee/" data-value="">ZigBee</a></li>
                        <ul>
                             <li><a href="https://www.fourfaith.com/f8914-zigbee-terminal-ip-modem.html">ZigBee Terminal F8914</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/3grtu/" data-value="">3G/4G RTU</a></li>
-                            <li><a href="https://www.fourfaith.com/Network-Video-Recoder/" data-value="">Network Video Recorder</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/3grtu/" data-value="">3G/4G RTU</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/Network-Video-Recoder/" data-value="">Network Video Recorder</a></li>
                        <ul>
                             <li><a href="https://www.fourfaith.com/f-nvr200-poe-network-video-recorder.html">PoE Network Video Recorder F-NVR200</a></li>
                             <li><a href="https://www.fourfaith.com/poe-nvr-recorder.html">5G/4G POE Network Video Recorder F-NVR110</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/Intelligent-Gateway/" data-value="">Intelligent Gateway</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/Intelligent-Gateway/" data-value="">Intelligent Gateway</a></li>
                        <ul>
                             <li><a href="https://www.fourfaith.com/industrial-5g-intelligent-gateway-f-g100.html">Industrial Intelligent Gateway F-G100</a></li>
                             <li><a href="https://www.fourfaith.com/f-g300-5g-smart-light-pole-gateway.html">5G Smart Light Pole Gateway F-G300</a></li>
                             <li><a href="https://www.fourfaith.com/smart-light-pole-gateway-f-g310.html">Smart Light Pole Gateway F-G310</a></li>
                             <li><a href="https://www.fourfaith.com/wireless-m-bus-gateway-f-r100wm.html">Wireless M-Bus Gateway F-R100WM</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/Industrial-PoE-Switch/" data-value="">Industrial PoE Switch</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/Industrial-PoE-Switch/" data-value="">Industrial PoE Switch</a></li>
                         <ul>
                             <li><a href="https://www.fourfaith.com/unmanaged-industrial-poe-ethernet-switch.html">Unmanaged Industrial PoE Ethernet Switch F-SW1010</a></li>
                             <li><a href="https://www.fourfaith.com/f-sw1032-industrial-switch.html">Industrial Switch F-SW1032</a></li>
                         </ul>
-                            <li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
                         <ul>
                             <li><a href="https://www.fourfaith.com/f-sc431-speed-dome-camera.html">HD Speed Dome Camera F-SC431</a></li>
                             <li><a href="https://www.fourfaith.com/f-sc621-mini-dome-ip-camera.html">Mini Dome IP Camera F-SC621</a></li>
@@ -102,12 +104,12 @@
                             <li><a href="https://www.fourfaith.com/bullet-ip-camera-price.html">5G/4G Built-in Battery Bullet IP Camera F-SC921</a></li>
                             <li><a href="https://www.fourfaith.com/f-sc332-pro-bullet-camera.html">Pro Bullet Camera F-SC332</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
                        <ul>
                             <li><a href="https://www.fourfaith.com/5g-indoor-cpe-f-nr300.html">5G CPE Indoor F-NR300</a></li>
                             <li><a href="https://www.fourfaith.com/5g-cpe-router-f-nr300-v2.html">5G CPE F-NR300 V2</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/temperature-screening-terminal/" data-value="">Temperature Screening Terminal</a></li>
+                            &nbsp;<li><a href="https://www.fourfaith.com/temperature-screening-terminal/" data-value="">Temperature Screening Terminal</a></li>
                         <ul>
                             <li><a href="https://www.fourfaith.com/intelligent-temperature-screening-machine.html">Intelligent Temperature Screening Machine F-TD200</a></li>
                         </ul>
