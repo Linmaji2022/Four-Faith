@@ -1,6 +1,7 @@
 # Four-Faith
-Company Website: www.fourfaith.com
+<li>Company Website: www.fourfaith.com</li>
 <li><a href="https://www.fourfaith.com/" data-value="">Four-Faith Communication Technology Co., Ltd.</a></li>
+<li><a href="mailto:info@four-faith.com">info@four-faith.com</a></li>
 &nbsp;<div class="carousel-item ">
                 <img src="https://www.fourfaith.com/uploadfile/2022/0516/20220516030520108.jpg" onclick="window.location.href='https://www.fourfaith.com/industrial-5g-router/'">
             </div>
@@ -19,11 +20,13 @@ Company Website: www.fourfaith.com
                 As an end-to-end solution provider, Four-Faith has long-standing relationships with global enterprises
                 and mobile network operators looking to find a competitive edge in the high-growth IoT market.
             </P>
-<h2><a  class="active"               href="https://www.fourfaith.com/products/">Products</a></h2>
+                            <h2><a  href="https://www.fourfaith.com/products/">Products</a></h2>
             <ul>
                             <li><a href="https://www.fourfaith.com/cellularipmodem/" data-value="">Cellular IP Modem</a></li>
+            <ul>
                             <li><a href="https://www.fourfaith.com/ip-modem-f2x16-v4.html"><span>IP Modem F2X16 V4</span></a></li>
                             <li><a href="https://www.fourfaith.com/f7916-series-ip-modem.html"><span>Industrial GPS IP Modem F7916</span></a></li>
+           </ul>
                             <li><a href="https://www.fourfaith.com/industrial-5g-router/" data-value="">Industrial 4G|5G Router</a></li>
                             <li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
                             <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa</a></li>
@@ -36,8 +39,8 @@ Company Website: www.fourfaith.com
                             <li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
                             <li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
                             <li><a href="https://www.fourfaith.com/temperature-screening-terminal/" data-value="">Temperature Screening Terminal</a></li>
-                          </ul>
-            <h2><a  class="active"             href="https://www.fourfaith.com/solution/">Solutions</a></h2>
+            </ul>
+                            <h2><a  href="https://www.fourfaith.com/solution/">Solutions</a></h2>
             <ul>
                             <li><a href="https://www.fourfaith.com/solution/atmfinance/" data-value="">ATM and Finance</a></li>
                             <li><a href="https://www.fourfaith.com/solution/loraapplications/" data-value="">LoRa Applications</a></li>
@@ -52,4 +55,4 @@ Company Website: www.fourfaith.com
                             <li><a href="https://www.fourfaith.com/solution/5gapplications/" data-value="">5G Applications</a></li>
                             <li><a href="https://www.fourfaith.com/solution/otherindustries/" data-value="">Other Industries</a></li>
                           </ul>
-          </li>
+         
