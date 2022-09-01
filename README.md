@@ -95,6 +95,13 @@
                             <li><a href="https://www.fourfaith.com/f-sw1032-industrial-switch.html">Industrial Switch F-SW1032</a></li>
                         </ul>
                             <li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
+                        <ul>
+                            <li><a href="https://www.fourfaith.com/f-sc431-speed-dome-camera.html">HD Speed Dome Camera F-SC431</a></li>
+                            <li><a href="https://www.fourfaith.com/f-sc621-mini-dome-ip-camera.html">Mini Dome IP Camera F-SC621</a></li>
+                            <li><a href="https://www.fourfaith.com/f-sc241-5g-iot-hd-bullet-network-camera.html">5G IoT HD Bullet Network Camera F-SC241</a></li>
+                            <li><a href="https://www.fourfaith.com/bullet-ip-camera-price.html">5G/4G Built-in Battery Bullet IP Camera F-SC921</a></li>
+                            <li><a href="https://www.fourfaith.com/f-sc332-pro-bullet-camera.html">Pro Bullet Camera F-SC332</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
                             <li><a href="https://www.fourfaith.com/temperature-screening-terminal/" data-value="">Temperature Screening Terminal</a></li>
                         </ul>
