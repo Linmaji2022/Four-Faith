@@ -44,6 +44,15 @@
                             <li><a href="https://www.fourfaith.com/f3x36q-industrial-router.html">Industrial Router F3X36Q</a></li>
                        </ul>
                             <li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
+                       <ul>
+                       <li><a href="https://www.fourfaith.com/f4932-r1q-industrial-computer.html">Android Industrial Computer F4932-R1Q</a></li>
+                       <li><a href="https://www.fourfaith.com/f4931-r2h-industrial-computer.html">Industrial Computer F4931-R2H</a></li>
+                       <li><a href="https://www.fourfaith.com/industrial-computer-f4932-r2h.html">Industrial Computer F4932-R2H</a></li>
+                       <li><a href="https://www.fourfaith.com/industrial-pc-f4932.html">Industrial Computer F4932-R2H-DF1</a></li>
+                       <li><a href="https://www.fourfaith.com/all-in-one-pc-touch-screen.html">All-in-one Screen F4934-A-21.5IL</a></li>
+                       <li><a href="https://www.fourfaith.com/all-in-one-touch-screen-computer.html">All-in-one Touch Screen Industrial Computer F4934-A-10.1CM</a></li>
+                       <li><a href="https://www.fourfaith.com/all-in-one-computers-touch-screen.html">All-in-one Computers Touch Screen F4934-A-17.3IE</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa</a></li>
                             <li><a href="https://www.fourfaith.com/NB-IoT/" data-value="">NB-IoT</a></li>
                             <li><a href="https://www.fourfaith.com/zigbee/" data-value="">ZigBee</a></li>
