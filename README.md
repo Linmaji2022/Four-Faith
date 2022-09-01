@@ -21,13 +21,21 @@
                 and mobile network operators looking to find a competitive edge in the high-growth IoT market.
             </P>
                             <h2><a  href="https://www.fourfaith.com/products/">Products</a></h2>
-            <ul>
+                        <ul>
                             <li><a href="https://www.fourfaith.com/cellularipmodem/" data-value="">Cellular IP Modem</a></li>
-            <ul>
+                        <ul>
                             <li><a href="https://www.fourfaith.com/ip-modem-f2x16-v4.html"><span>IP Modem F2X16 V4</span></a></li>
                             <li><a href="https://www.fourfaith.com/f7916-series-ip-modem.html"><span>Industrial GPS IP Modem F7916</span></a></li>
-           </ul>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/industrial-5g-router/" data-value="">Industrial 4G|5G Router</a></li>
+                        <ul>
+                            <li><a href="https://www.fourfaith.com/f-nr100-5g-industrial-router.html"><span>5G Industrial Router F-NR100</a></li>
+                            <li><a href="https://www.fourfaith.com/5g-industrial-router-f-nr120.html"><span>5G Industrial Router F-NR120</a></li>
+                            <li><a href="https://www.fourfaith.com/f-nr200-5g-industrial-router.html"><span>5G Industrial CPE F-NR200</a></li>
+                            <li><a href="https://www.fourfaith.com/5g-industrial-router-f-nr130.html"><span>5G Industrial Router F-NR130</a></li>
+                            <li><a href="https://www.fourfaith.com/industrial-network-router-f3x27-v2.html"><span>4G Industrial Router F3X27 V2</a></li>
+                            <li><a href="https://www.fourfaith.com/fr100-3g4g-cellular-router-with-sim-slot.html"><span>4G Cellular Router F-R100</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
                             <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa</a></li>
                             <li><a href="https://www.fourfaith.com/NB-IoT/" data-value="">NB-IoT</a></li>
@@ -39,9 +47,9 @@
                             <li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
                             <li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
                             <li><a href="https://www.fourfaith.com/temperature-screening-terminal/" data-value="">Temperature Screening Terminal</a></li>
-            </ul>
+                        </ul>
                             <h2><a  href="https://www.fourfaith.com/solution/">Solutions</a></h2>
-            <ul>
+                        <ul>
                             <li><a href="https://www.fourfaith.com/solution/atmfinance/" data-value="">ATM and Finance</a></li>
                             <li><a href="https://www.fourfaith.com/solution/loraapplications/" data-value="">LoRa Applications</a></li>
                             <li><a href="https://www.fourfaith.com/solution/transpotation/" data-value="">Transportation</a></li>
@@ -54,5 +62,5 @@
                             <li><a href="https://www.fourfaith.com/solution/smart-manufacturing/" data-value="">Smart Manufacturing</a></li>
                             <li><a href="https://www.fourfaith.com/solution/5gapplications/" data-value="">5G Applications</a></li>
                             <li><a href="https://www.fourfaith.com/solution/otherindustries/" data-value="">Other Industries</a></li>
-                          </ul>
+                       </ul>
          
