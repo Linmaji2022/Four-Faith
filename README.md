@@ -45,15 +45,27 @@
                        </ul>
                             <li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
                        <ul>
-                       <li><a href="https://www.fourfaith.com/f4932-r1q-industrial-computer.html">Android Industrial Computer F4932-R1Q</a></li>
-                       <li><a href="https://www.fourfaith.com/f4931-r2h-industrial-computer.html">Industrial Computer F4931-R2H</a></li>
-                       <li><a href="https://www.fourfaith.com/industrial-computer-f4932-r2h.html">Industrial Computer F4932-R2H</a></li>
-                       <li><a href="https://www.fourfaith.com/industrial-pc-f4932.html">Industrial Computer F4932-R2H-DF1</a></li>
-                       <li><a href="https://www.fourfaith.com/all-in-one-pc-touch-screen.html">All-in-one Screen F4934-A-21.5IL</a></li>
-                       <li><a href="https://www.fourfaith.com/all-in-one-touch-screen-computer.html">All-in-one Touch Screen Industrial Computer F4934-A-10.1CM</a></li>
+                            <li><a href="https://www.fourfaith.com/f4932-r1q-industrial-computer.html">Android Industrial Computer F4932-R1Q</a></li>
+                            <li><a href="https://www.fourfaith.com/f4931-r2h-industrial-computer.html">Industrial Computer F4931-R2H</a></li>
+                            <li><a href="https://www.fourfaith.com/industrial-computer-f4932-r2h.html">Industrial Computer F4932-R2H</a></li>
+                            <li><a href="https://www.fourfaith.com/industrial-pc-f4932.html">Industrial Computer F4932-R2H-DF1</a></li>
+                            <li><a href="https://www.fourfaith.com/all-in-one-pc-touch-screen.html">All-in-one Screen F4934-A-21.5IL</a></li>
+                            <li><a href="https://www.fourfaith.com/all-in-one-touch-screen-computer.html">All-in-one Touch Screen Industrial Computer F4934-A-10.1CM</a></li>
                        <li><a href="https://www.fourfaith.com/all-in-one-computers-touch-screen.html">All-in-one Computers Touch Screen F4934-A-17.3IE</a></li>
                        </ul>
-                            <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa</a></li>
+                            <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa/LoRaWAN</a></li>
+                       <ul>
+                            <li><a href="https://www.fourfaith.com/lorawan-module-f8l10a.html">LoRaWAN Module F8L10A</a></li>
+                            <li><a href="https://www.fourfaith.com/lorawan-module-f-lm100.html">LoRaWAN Module F8L10C</a></li>
+                            <li><a href="https://www.fourfaith.com/lora-module-price.html">LoRaWAN® Module F8L10A-E/N</a></li>
+                            <li><a href="http://www.fourfaith.com/f8l10t-lora-gateways-semtech.html">LoRa Terminal Modem Gateways F8L10T</a></li>
+                            <li><a href="https://www.fourfaith.com/f8l10gw-lorawan-base-station-gateways.html">LoRawan Base Station Gateways F8L10GW</a></li>
+                            <li><a href="https://www.fourfaith.com/f8926-gw-lorawan-gateway.html">LoRaWAN Gateway F8926-GW</a></li>
+                            <li><a href="https://www.fourfaith.com/f8936l-lora-router-low-cost-lora-gateway-price.html">LoRa Router Low-cost F8936-L</a></li>
+                            <li><a href="https://www.fourfaith.com/f8l10t-lora-gateways-semtech.html">LoRa Terminal F8L10T</a></li>
+                            <li><a href="https://www.fourfaith.com/lora-sensor-terminal-f8l10st.html">LoRa Sensor Terminal F8L10ST</a></li>
+                            <li><a href="https://www.fourfaith.com/lora-temperature-and-humidity-sensor-f100-l.html">LoRa Temperature and Humidity Sensor Terminal F100-L</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/NB-IoT/" data-value="">NB-IoT</a></li>
                             <li><a href="https://www.fourfaith.com/zigbee/" data-value="">ZigBee</a></li>
                             <li><a href="https://www.fourfaith.com/3grtu/" data-value="">3G/4G RTU</a></li>
