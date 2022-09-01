@@ -1,6 +1,9 @@
 # Four-Faith
 Company Website: www.fourfaith.com
 <li><a href="https://www.fourfaith.com/" data-value="">Four-Faith Communication Technology Co., Ltd.</a></li>
+&nbsp;<div class="carousel-item ">
+                <img src="https://www.fourfaith.com/uploadfile/2022/0516/20220516030520108.jpg" onclick="window.location.href='https://www.fourfaith.com/industrial-5g-router/'">
+            </div>
 <h2 class="about_video_title">ABOUT US</h2>
             <P class="about_video_text">
                 Founded in 2008, Four-Faith is the world's leading Internet of Things communication equipment and
