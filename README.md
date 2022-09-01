@@ -83,6 +83,12 @@
                             <li><a href="https://www.fourfaith.com/poe-nvr-recorder.html">5G/4G POE Network Video Recorder F-NVR110</a></li>
                        </ul>
                             <li><a href="https://www.fourfaith.com/Intelligent-Gateway/" data-value="">Intelligent Gateway</a></li>
+                       <ul>
+                            <li><a href="https://www.fourfaith.com/industrial-5g-intelligent-gateway-f-g100.html">Industrial Intelligent Gateway F-G100</a></li>
+                            <li><a href="https://www.fourfaith.com/f-g300-5g-smart-light-pole-gateway.html">5G Smart Light Pole Gateway F-G300</a></li>
+                            <li><a href="https://www.fourfaith.com/smart-light-pole-gateway-f-g310.html">Smart Light Pole Gateway F-G310</a></li>
+                            <li><a href="https://www.fourfaith.com/wireless-m-bus-gateway-f-r100wm.html">Wireless M-Bus Gateway F-R100WM</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/Industrial-PoE-Switch/" data-value="">Industrial PoE Switch</a></li>
                             <li><a href="https://www.fourfaith.com/IP-Camera/" data-value="">IP Camera</a></li>
                             <li><a href="https://www.fourfaith.com/5g-cpe/" data-value="">5G CPE</a></li>
