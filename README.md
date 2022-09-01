@@ -73,6 +73,9 @@
                             <li><a href="https://www.fourfaith.com/cheapest-nb-iot-module.html">NB-IoT Module F-B200GL</a></li>
                        </ul>
                             <li><a href="https://www.fourfaith.com/zigbee/" data-value="">ZigBee</a></li>
+                       <ul>
+                            <li><a href="https://www.fourfaith.com/f8914-zigbee-terminal-ip-modem.html">ZigBee Terminal F8914</a></li>
+                       </ul>
                             <li><a href="https://www.fourfaith.com/3grtu/" data-value="">3G/4G RTU</a></li>
                             <li><a href="https://www.fourfaith.com/Network-Video-Recoder/" data-value="">Network Video Recorder</a></li>
                             <li><a href="https://www.fourfaith.com/Intelligent-Gateway/" data-value="">Intelligent Gateway</a></li>
