@@ -39,7 +39,9 @@
                             <li><a href="https://www.fourfaith.com/f3x36-fdd-lte-industrial-4g-router.html">FDD-LTE Industrial 4G Router F3x36</a></li>
                             <li><a href="https://www.fourfaith.com/industrial-ethernet-router-f3x26-v2.html">4G Industrial Router F3X26 V2</a></li>
                             <li><a href="https://www.fourfaith.com/f3x26q-industrial-router.html">Industrial Router F3X26Q</a></li>
-                            <li><a href="https://www.fourfaith.com/f3946-dual-module-wifi-router.html">Dual-Module WIFI Router F3946</a></li>                     
+                            <li><a href="https://www.fourfaith.com/f3946-dual-module-wifi-router.html">Dual-Module WIFI Router F3946</a></li>   
+                            <li><a href="https://www.fourfaith.com/f3x26-tb-industrial-4g-lte-router.html">Industrial 4G LTE Router F3X26-TB</a></li>
+                            <li><a href="https://www.fourfaith.com/f3x36q-industrial-router.html">Industrial Router F3X36Q</a></li>
                        </ul>
                             <li><a href="https://www.fourfaith.com/industrial-computer/" data-value="">Industrial Computer</a></li>
                             <li><a href="https://www.fourfaith.com/lora/" data-value="">LoRa</a></li>
